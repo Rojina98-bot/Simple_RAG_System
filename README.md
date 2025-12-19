@@ -23,7 +23,6 @@
 - To run: fastapi dev main.py
 
 
-<br>
 
 **cd frontend/my-app**
 
