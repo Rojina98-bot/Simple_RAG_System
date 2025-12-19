@@ -29,7 +29,7 @@ To run: fastapi dev main.py
 
 npm install
 
-To run:npm run dev
+To run: npm run dev
 
 
 **ARCHITECTURE**
