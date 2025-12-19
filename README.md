@@ -3,11 +3,11 @@
 
 **cd backend**
 
-python -m venv venv
+-python -m venv venv
 
-source venv/bin/activate
+-source venv/bin/activate
 
-install:
+-install:
     fastapi
     uvicorn
     python-multipart
@@ -20,15 +20,15 @@ install:
     pandas
     google-generativeai
 
-To run: fastapi dev main.py
+-To run: fastapi dev main.py
 
 
 <br><br>
 **cd frontend/my-app**
 
-npm install
+-npm install
 
-To run: npm run dev
+-To run: npm run dev
 
 
 **ARCHITECTURE**
