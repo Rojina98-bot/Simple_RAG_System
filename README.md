@@ -23,7 +23,7 @@
 - To run: fastapi dev main.py
 
 
-<br><br>
+<br>
 **cd frontend/my-app**
 
 - npm install
