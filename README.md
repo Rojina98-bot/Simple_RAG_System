@@ -1,7 +1,7 @@
 - install Postgres SQL + pgvetor
 - enable pgvector in Database
 
-cd backend
+**cd backend**
 
 python -m venv venv
 
@@ -25,7 +25,7 @@ To run: fastapi dev main.py
 
 
 
-cd frontend/my-app
+**cd frontend/my-app**
 
 npm install
 
