@@ -2,7 +2,9 @@
 - enable pgvector in Database
 
 cd backend
+
 python -m venv venv
+
 source venv/bin/activate
 
 install:
@@ -22,6 +24,7 @@ To run: fastapi dev main.py
 
 
 cd frontend/my-app
+
 npm install
 
 To run:npm run dev
